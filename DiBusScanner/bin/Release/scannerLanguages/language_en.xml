@@ -1,0 +1,22 @@
+<SerializeTest xmlns="http://schemas.datacontract.org/2004/07/TranslationLib" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Map_list xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <a:KeyValueOfstringstring><a:Key>MainForm</a:Key><a:Value>Scanner</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>toolStripMenuItemEdit</a:Key><a:Value>Edit</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>tsmItemSerialPortSettings</a:Key><a:Value>Serial Port Settings</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>tsmItemLanguage</a:Key><a:Value>Language</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>tsmItemExit</a:Key><a:Value>Exit</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>lblRadioChannelsFrom</a:Key><a:Value>Radio channels</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>lblLabelDiBusAddress</a:Key><a:Value>DiBus Address:</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>lblLabelRadioChannel</a:Key><a:Value>Radio channel</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>lblLabelDevInfo</a:Key><a:Value>Additional information</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>btnSetDeviceRadioChannel</a:Key><a:Value>Set Radiochannel</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>btnStopGetData</a:Key><a:Value>Stop</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>btnGetDataFromDevice</a:Key><a:Value>Start read data</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>columnHeaderDiBusAddress</a:Key><a:Value>DiBus Address</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>columnHeaderComment</a:Key><a:Value>Comment</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>columnHeaderRadioChannel</a:Key><a:Value>Radiochannel</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>columnHeaderType</a:Key><a:Value>Type</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>lblDevice</a:Key><a:Value>Device</a:Value></a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring><a:Key>msgConnectedTo</a:Key><a:Value>Connected to </a:Value></a:KeyValueOfstringstring>
+  </Map_list>
+</SerializeTest>

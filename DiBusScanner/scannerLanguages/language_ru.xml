@@ -1,0 +1,76 @@
+<SerializeTest xmlns="http://schemas.datacontract.org/2004/07/TranslationLib" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Map_list xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <a:KeyValueOfstringstring>
+      <a:Key>MainForm</a:Key>
+      <a:Value>Сканер устройств</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>toolStripMenuItemEdit</a:Key>
+      <a:Value>Правка</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>tsmItemSerialPortSettings</a:Key>
+      <a:Value>Настройки СОМ-порта</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>tsmItemLanguage</a:Key>
+      <a:Value>Язык</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>tsmItemExit</a:Key>
+      <a:Value>Выход</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>lblRadioChannelsFrom</a:Key>
+      <a:Value>Радиоканалы</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>lblLabelDiBusAddress</a:Key>
+      <a:Value>DiBus адрес:</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>lblLabelRadioChannel</a:Key>
+      <a:Value>Радиоканал:</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>lblLabelDevInfo</a:Key>
+      <a:Value>Комментарий:</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>btnSetDeviceRadioChannel</a:Key>
+      <a:Value>Установить радиоканал</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>btnStopGetData</a:Key>
+      <a:Value>Стоп</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>btnGetDataFromDevice</a:Key>
+      <a:Value>Читать данные</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>columnHeaderDiBusAddress</a:Key>
+      <a:Value>DiBus Адрес</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>columnHeaderComment</a:Key>
+      <a:Value>Комментарий</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>columnHeaderRadioChannel</a:Key>
+      <a:Value>Радиоканал</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>columnHeaderType</a:Key>
+      <a:Value>Тип</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>lblDevice</a:Key>
+      <a:Value>Устройство</a:Value>
+    </a:KeyValueOfstringstring>
+    <a:KeyValueOfstringstring>
+      <a:Key>msgConnectedTo</a:Key>
+      <a:Value>Соединение с </a:Value>
+    </a:KeyValueOfstringstring>
+  </Map_list>
+</SerializeTest>

@@ -1,0 +1,6 @@
+C:\Users\bak\Documents\Visual Studio 2019\Projects\DiBusScanner\TranslationLib\bin\Release\TranslationLib.dll
+C:\Users\bak\Documents\Visual Studio 2019\Projects\DiBusScanner\TranslationLib\bin\Release\TranslationLib.pdb
+C:\Users\bak\Documents\Visual Studio 2019\Projects\DiBusScanner\TranslationLib\obj\Release\TranslationLib.csproj.CoreCompileInputs.cache
+C:\Users\bak\Documents\Visual Studio 2019\Projects\DiBusScanner\TranslationLib\obj\Release\TranslationLib.dll
+C:\Users\bak\Documents\Visual Studio 2019\Projects\DiBusScanner\TranslationLib\obj\Release\TranslationLib.pdb
+C:\Users\bak\Documents\Visual Studio 2019\Projects\DiBusScanner\TranslationLib\obj\Release\TranslationLib.csproj.AssemblyReference.cache

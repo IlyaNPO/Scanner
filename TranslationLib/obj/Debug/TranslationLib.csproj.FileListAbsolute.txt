@@ -1,0 +1,5 @@
+C:\Users\bak\Documents\Visual Studio 2019\Projects\DiBusScanner\TranslationLib\bin\Debug\TranslationLib.dll
+C:\Users\bak\Documents\Visual Studio 2019\Projects\DiBusScanner\TranslationLib\bin\Debug\TranslationLib.pdb
+C:\Users\bak\Documents\Visual Studio 2019\Projects\DiBusScanner\TranslationLib\obj\Debug\TranslationLib.csproj.CoreCompileInputs.cache
+C:\Users\bak\Documents\Visual Studio 2019\Projects\DiBusScanner\TranslationLib\obj\Debug\TranslationLib.dll
+C:\Users\bak\Documents\Visual Studio 2019\Projects\DiBusScanner\TranslationLib\obj\Debug\TranslationLib.pdb

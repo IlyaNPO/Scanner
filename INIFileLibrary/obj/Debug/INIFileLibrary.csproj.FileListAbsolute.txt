@@ -1,0 +1,5 @@
+C:\Users\bak\Documents\Visual Studio 2019\Projects\DiBusScanner\INIFileLibrary\bin\Debug\INIFileLibrary.dll
+C:\Users\bak\Documents\Visual Studio 2019\Projects\DiBusScanner\INIFileLibrary\bin\Debug\INIFileLibrary.pdb
+C:\Users\bak\Documents\Visual Studio 2019\Projects\DiBusScanner\INIFileLibrary\obj\Debug\INIFileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bak\Documents\Visual Studio 2019\Projects\DiBusScanner\INIFileLibrary\obj\Debug\INIFileLibrary.dll
+C:\Users\bak\Documents\Visual Studio 2019\Projects\DiBusScanner\INIFileLibrary\obj\Debug\INIFileLibrary.pdb
