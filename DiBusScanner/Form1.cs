@@ -594,9 +594,6 @@ namespace DiBusScanner
 
             if(byte.TryParse(this.tbxDeviceNewRadioChannel.Text, out deviceNewRadioChannel))
             {
-                //this.scanner.SetRadioChannel(currentDevice, deviceNewRadioChannel); 
-                //return; 
-
                 DiBusMessage msg = new DiBusMessage();
                 msg.ReceiverAddress = currentDevice.Address;
                 msg.SourceAddress = new byte[] { 1, 1, 1 };

@@ -8,23 +8,6 @@ using ZyablikLib;
 
 namespace DiBusScanner
 {
-    //class DiBusScanner
-    //{
-    //    public List<DiBusDevice> ScanSerialPort(SerialPort sp)
-    //    {
-    //        List<DiBusDevice> devices = new List<DiBusDevice>();
-
-            
-    //        //SerialPortOperator spOperator = new SerialPortOperator(sp);
-
-
-
-
-    //        return devices;
-    //    }
-
-
-    //}
 
     public class DevicesScanner
     {
@@ -172,15 +155,10 @@ namespace DiBusScanner
                 GetDevice(mbs2, i);
                 var mbs3 = spOperator.FindDevice(new byte[] { 0x29, 0x05, 0xff });
                 GetDevice(mbs3, i);
-                //var BDBeta = spOperator.FindDevice(new byte[] { 0x07, 0x0F, 0xFF });
-                //GetDevice(BDBeta, i);
                 var pult = spOperator.FindDevice(new byte[] { 0x03, 0xC8, 0xFF });
                 GetDevice(pult, i);
                 var device = spOperator.FindDevice(new byte[] { 0xff, 0xff, 0xff });
                 GetDevice(device, i);
-                //this.SendPing(this.serialPort1, new byte[] { 0xff, 0xff, 0xff });
-                //System.Threading.Thread.Sleep(100);
-
                 if (findProcessAction != null)
                     findProcessAction(i);
             }
